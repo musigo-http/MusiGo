@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&family=Roboto+Mono:ital,wght@0,500;1,500&display=swap');
+
+body {
+    background: linear-gradient(135deg, rgb(9, 6, 40), rgb(44, 39, 88));
+    font-family: 'Roboto Mono', monospace;
+    margin: 0;
+    padding: 0;
+    color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+h1, h2 {
+    margin: 0;
+    font-family: 'Madimi One', sans-serif;
+    color: #fff;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    background: linear-gradient(135deg, rgb(9, 6, 40), rgb(44, 39, 88)); /* Couleur identique au fond */
+    position: absolute;
+    height: 10%;
+    top: 0;
+    left: 0;
+}
+
+#titre {
+    font-size: 32px;
+    letter-spacing: 2px;
+    color: white;
+    position: absolute;
+    left: 5%;
+}
+
+.button-container {
+    display: flex;
+    gap: 20px;
+    position: absolute;
+    right: 2%;
+    height: 100%;
+    align-items: center;
+}
+
+button {
+    background: transparent;
+    border: 3px solid #fff;
+    color: #fff;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 16px;
+    height: 75%;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    outline: none;
+}
+
+button:hover {
+    background: #fff;
+    color: #003366;
+}
+
+.slogans {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.entree {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 800px;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.texte {
+    flex: 1;
+    padding-right: 20px;
+}
+
+.texte h1 {
+    font-size: 36px;
+    line-height: 1.4;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.image {
+    flex: 1;
+    text-align: center;
+}
+
+.image img {
+    width: 80%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.avantages {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    position: absolute;
+    top: 37%;
+}
+
+.avantages > div {
+    text-align: center;
+    flex: 1;
+    padding: 20px;
+}
+
+.avantages img {
+    max-width: 80%;
+    height: auto;
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+}
+
+.avantages img:hover {
+    transform: scale(1.1);
+}
+
+.noads h2, .intuitif h2, .gratuit h2 {
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+#slogantexteecoutezmusqieu{
+    position: absolute;
+    top: 15%;
+    margin-bottom: 5%;
+}
+.backgrounddiv{
+    display: none;
+}
+@media (max-width: 768px) {
+    body{
+        overflow: scroll;
+    }
+    .header {
+        align-items: center;
+    }
+
+    #titre {
+        font-size: 28px;
+    }
+
+    .texte h1 {
+        font-size: 24px;
+    }
+
+    .image img {
+        width: 100%;
+        height: auto;
+    }
+
+    .avantages {
+        flex-direction: column;
+        width: 90%;
+    }
+
+    .avantages > div {
+        margin-bottom: 20px;
+    }
+}

@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&family=Roboto+Mono:ital,wght@0,500;1,500&display=swap');
+body{
+    background-color: rgb(9, 6, 40);
+}
+#ban-msg{
+    color: rgb(204, 197, 197);
+    font-family: "Madimi One", sans-serif;
+}

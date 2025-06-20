@@ -1,0 +1,82 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "BksipR-FKNfJoOdg3JMbHCG2U9s",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "UhF5tEiRdFH340ymjSlQBh4gHZ4",
+      "id": "Cw8iQOYuiNA",
+      "snippet": {
+        "publishedAt": "2024-09-25T14:59:24Z",
+        "channelId": "UCk1k4K0FIs_09WNSW0mQC5A",
+        "title": "La Mano 1.9 - I'M SORRY (Clip Officiel)",
+        "description": "La Mano 1.9 - I'M SORRY  (Clip Officiel) \n\nMaintenant disponible : https://lamano19.lnk.to/ImSorry\n\nAbonne toi à ma chaîne YouTube pour ne rien rater et être informé de mes prochaines sorties 🎥\n\nRetrouvez moi sur mes réseaux 📲 : \n👻: https://t.snapchat.com/URpgpvoi\n📸: https://www.instagram.com/lamano1.9?igsh=OXh3eG44YWs4Zm9w\nTikTok: https://www.tiktok.com/@lamanoonenine19?_t=8pzF9W702nA&_r=1\n\n\nProd : SOKOL; ELIYEL\nMix: SOKOL\n\nRéalisé par: \u200b\u200b\u200bHarris Kaci\nProduction: Digital Nak\n\n\n\n\n\n\n\n#LAMANO19 #IMSORRY #RAT #2024",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cw8iQOYuiNA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cw8iQOYuiNA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cw8iQOYuiNA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Cw8iQOYuiNA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Cw8iQOYuiNA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "La Mano 1.9 - Officiel",
+        "tags": [
+          "LA MANO",
+          "LA MANO 1.9",
+          "LA MANO 19",
+          "LA MANO SORRY",
+          "LA MANO 1.9 I'M SORY",
+          "LA MANO OH MY BABY",
+          "LA MANO OH MA BABY I'M SORRY",
+          "LA MANO SORRY SORRY SORRY",
+          "SORRY SORRY SORRY",
+          "LA MANO MARQUER L'HISTOIRE",
+          "LA MANO AUCUN ESPOIR",
+          "LA MANO AMIRI",
+          "LA MANO LEVIS",
+          "LA MANO J'DOIS MARQUER L'HISTOIRE",
+          "LA MANO Y'A AUCUN ESPOIR",
+          "LA MANO TIKTOK",
+          "LA MANO NOUVEAU SON",
+          "LA MANO DERNIER SON",
+          "LA MANO NOUVEAU CLIP",
+          "LA MANO DERNIER CLIP",
+          "LA MANO CLIP",
+          "LA MANO 2024",
+          "LA MANO NOUVEAU",
+          "LA MANO NEWS"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "La Mano 1.9 - I'M SORRY (Clip Officiel)",
+          "description": "La Mano 1.9 - I'M SORRY  (Clip Officiel) \n\nMaintenant disponible : https://lamano19.lnk.to/ImSorry\n\nAbonne toi à ma chaîne YouTube pour ne rien rater et être informé de mes prochaines sorties 🎥\n\nRetrouvez moi sur mes réseaux 📲 : \n👻: https://t.snapchat.com/URpgpvoi\n📸: https://www.instagram.com/lamano1.9?igsh=OXh3eG44YWs4Zm9w\nTikTok: https://www.tiktok.com/@lamanoonenine19?_t=8pzF9W702nA&_r=1\n\n\nProd : SOKOL; ELIYEL\nMix: SOKOL\n\nRéalisé par: \u200b\u200b\u200bHarris Kaci\nProduction: Digital Nak\n\n\n\n\n\n\n\n#LAMANO19 #IMSORRY #RAT #2024"
+        },
+        "defaultAudioLanguage": "fr"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

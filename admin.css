@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&family=Roboto+Mono:ital,wght@0,500;1,500&display=swap');
+button{
+    cursor: pointer;
+}
+body{
+    font-family: "Madimi One", sans-serif;
+    background: linear-gradient(135deg, rgb(9, 6, 40), rgb(44, 39, 88));
+}
+#sql_request{
+    border-left: none;
+    outline: none;
+    border: none;
+    /*color: #CCFFCC;*/
+    color: green;
+    background-color: transparent;
+    width: 97%;
+}
+.container_bottom{
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    bottom: 0px;
+    left: 0px;
+    height: 15%;
+    width: 100%;
+    background-color: transparent;
+    border-top: 2px solid black;
+}
+#postier{
+    width: 50%;
+    height: 100%;
+    border-right: 2px solid black;
+}
+.controle{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#microouvert{
+    background-color: white;
+}
+#microferme{
+    background-color: chartreuse;
+}
+#fleche{
+    color: rgb(204, 197, 197);
+}/*
+#resultat{
+    position: absolute;
+    top: 0px;
+    color: rgb(204, 197, 197);
+}*/
+.contain{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 85%;
+    width: 100%;
+    background-color: transparent;
+}
+#pseudoss{
+    color: rgb(204, 197, 197);
+}
+#vues{
+    color: rgb(204, 197, 197);
+}
+.liste{
+    height: 50%;
+    border: 2px solid black;
+    width: 30%;
+    overflow: auto;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+#btn_index{
+    height: 20%;
+    width: 40%;
+    position: absolute;
+    top: 25%;
+    background-color: transparent;
+    cursor: pointer;
+    border-radius: 15px;
+    border: 2px solid black;
+    transition: 0.3s;
+    color: rgb(204, 197, 197);
+    font-family: "Madimi One", sans-serif;
+    font-size: large;
+}
+#btn_index:hover{
+    background-color: rgba(125, 125, 125, 0.6);
+}
+.btn_btn_adm{
+    background-color: transparent;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 2px solid black;
+    transition: 0.3s;
+    color: rgb(204, 197, 197);
+    font-family: "Madimi One", sans-serif;
+}
+.btn_btn_adm:hover{
+    background-color: rgba(125, 125, 125, 0.6);
+}
+.output{
+    position: absolute;
+    top: 0px;
+    left: 30%;
+    height: 50%;
+    /*border-bottom: 2px solid black;*/
+    /*border-right: 2px solid black;*/
+    width: 30%;
+    overflow: auto;
+}
+#telechargementos{
+    position: absolute;
+    bottom: 25%;
+    background-color: transparent;
+    cursor: pointer;
+    border-radius: 15px;
+    border: 2px solid black;
+    transition: 0.3s;
+    color: rgb(204, 197, 197);
+    font-family: "Madimi One", sans-serif;
+    height: 20%;
+    width: 70%;
+    font-size: large;
+}
+#telechargementos:hover{
+    background-color: rgba(125, 125, 125, 0.6);
+}
+#result{
+    color: rgb(204, 197, 197);
+    font-family: "Madimi One", sans-serif;
+    font-size: 15px;
+}
+.infosls{
+    position: absolute;
+    bottom: 0;
+    right: 0px;
+    height: 49.2%;
+    border: 2px solid black;
+    width: 39.5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#boutonssl{
+    display: flex;
+    justify-content: center; /* Centrer horizontalement */
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    border: 2px solid black;
+    height: 49.3%;
+    width: 39.5%;
+    border-bottom: none;
+}
+.sequejedoitfaire{
+    position: absolute;
+    left: 30.4%;
+    top: 50%;
+    height: 50%;
+    width: 30%;
+    border-top: 2px solid black;
+}
+#sequejedoitfairetextarea{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    border: none;
+    color: rgb(204, 197, 197);
+    font-family: "Madimi One", sans-serif;
+}
+.sqli{
+    position: absolute;
+    top: 50%;
+    left: 0px;
+    height: 50%;
+    width: 30%;
+    overflow: auto;
+    border-right: 2px solid black;
+}
+#logssqli{
+    color: rgb(204, 197, 197);
+    font-family: "Madimi One", sans-serif;
+    font-size:small;
+}
