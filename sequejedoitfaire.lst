@@ -1,0 +1,11 @@
+1) mettre le mode suivant et precedent sur like et rajouter la creation de playlist et le faire aussi pour la playlist
+
+2) eviter les doublons pour les likes donc des que la musique est recherché, verifier avant d'afficher l'icone coeur si on doit l'afficher vide car la musique est pas encore liké ou si on doit l'afficher pleine car elle est l
+
+3) faire comme spotify ou on peux controler un compte connecté genre depuis son pc si la musique est lancé sur son tel depuis le meme compte on peux changer la musique etc du telephone comme spotify degueu meme pour le ban.php sa affecte l'image de MusiGo
+
+4) faire plusieurs playlist
+
+5) mettre le suivant et le precedent sur la playlist et les likes
+
+6) mettre le curseur de la souris pour precedent en panneau sens interdit si on ne peux pas mettre precedent car on est au premier titre

@@ -1,0 +1,16 @@
+{
+    "name": "MusiGo",
+    "short_name": "MusiGo",
+    "description": "MusiGo - Écoutez votre musique préférée en toute tranquillité",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#19163F",
+    "theme_color": "#19163F",
+    "icons": [
+      {
+        "src": "logo_musigo_pwa.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }

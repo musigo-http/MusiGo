@@ -1,0 +1,3 @@
+finir la page de soutien deja crée
+la rendre responsive
+rendre responsive la page d'accueil

@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&family=Roboto+Mono:ital,wght@0,500;1,500&display=swap');
+
+body {
+    background: linear-gradient(135deg, rgb(9, 6, 40), rgb(44, 39, 88));
+    /* Utilise Flexbox pour centrer */
+    display: flex;
+    justify-content: center; /* Centre horizontalement */
+    align-items: center;    /* Centre verticalement */
+    height: 100vh;          /* Hauteur de la page complète */
+    margin: 0;              /* Supprime les marges par défaut */
+    flex-direction: column;
+}
+
+.container {
+    /* Style de la div */
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+
+    /* Pour la rendre carrée */
+    width: 200px;  /* Largeur fixe */
+    height: 200px; /* Hauteur égale à la largeur */
+}
+
+#title {
+    color: rgb(204, 197, 197);
+    font-family: "Madimi One", sans-serif;
+}
+
+#trv_img{
+    height: 35%;
+    border-radius: 5px;
+}
+
+#btn{
+    width: 15%;
+    height: 7%;
+    background-color: transparent;
+    border: 2px solid black;
+    border-radius: 12px;
+    color: rgb(204, 197, 197);
+    font-family: "Madimi One", sans-serif;
+    margin-top: 2%;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#btn:hover{
+    background-color: rgba(125, 125, 125, 0.6);
+}
